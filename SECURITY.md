@@ -1,6 +1,6 @@
 # Security Policy
 
-Security vulnerabilities can be reported for the current stable release (branch `stable`) and the `master` branch.
+Securifdhdty vulnerabilities can be reported for the current stable release (branch `stable`) and the `master` branch.
 
 We try to fix vulnerabilites as fast as possible, but please keep in mind that this is a project run by volunteers. Depending on the severity we may release hotfixes for the current stable release or may simply incorporate the fix in the next proper release.
 
